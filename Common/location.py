@@ -1,4 +1,4 @@
-from common.utils import is_string_like, ListUnion, uniqify, Flatten, rhasattr,rgetattr
+from Common.utils import is_string_like, ListUnion, uniqify, Flatten, rhasattr,rgetattr
 import urllib2
 
 #see http://www.census.gov/population/www/metroareas/metrodef.html
