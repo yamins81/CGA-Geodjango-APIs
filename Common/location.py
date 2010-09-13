@@ -1,4 +1,3 @@
-import pymongo.son as son
 from common.utils import is_string_like, ListUnion, uniqify, Flatten, rhasattr,rgetattr
 import urllib2
 
